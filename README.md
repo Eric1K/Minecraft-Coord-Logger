@@ -1,7 +1,8 @@
 # Minecraft-Coord-Logger
 A Java GUI I created to keep track of Minecraft Coordinates
-![Screenshot of Program](https://raw.githubusercontent.com/Eric1K/Minecraft-Coord-Logger/main/Screenshot%202021-07-02%20000505.png
-)
+
+
+![Screenshot of Program](https://raw.githubusercontent.com/Eric1K/Minecraft-Coord-Logger/main/Screenshot%202021-07-02%20000505.png)
 
 ###Installation
 https://github.com/Eric1K/Minecraft-Coord-Logger/blob/main/Eric1K's%20Coord%20editor.jar or download Eric1K's Coord editor.jar
